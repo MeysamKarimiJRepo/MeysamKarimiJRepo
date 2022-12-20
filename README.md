@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meysam Karimi
 - 👀 I’m interested in producing software systems to solve the real world issues
-- 🌱 Using BPMS to handle complex work flows in my target industry.
+- 🌱 I'm currently learning BPMS to handle complex work flows in my target industry.
 - 📫 You can reach me at meysam.karimi.ebox@gmail.com
 
 <!---
